@@ -1,0 +1,14 @@
+.navbar-nav {
+   margin-left: auto;
+   margin-right: 20px !important;
+}
+
+.dropdown {
+   position: static;
+}
+
+.dropdown-menu {
+   min-width: 100%;
+}
+
+
