@@ -11,4 +11,8 @@
    min-width: 100%;
 }
 
+.dropdown-menu {
+   min-width: 150%;
+}
+
 
